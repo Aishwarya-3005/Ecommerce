@@ -1,0 +1,23 @@
+.displaycard{
+    border:1px solid silver;
+    margin: 10px;
+    box-shadow: 0 0 4px 2px silver;
+    display: flex;
+}
+.userImage{
+    width:100px;
+    height:100px;
+}
+.user-info{
+    font-size: larger;
+}
+.user-data{
+    text-align: start;
+    flex-direction: column;
+    padding: 20px;
+}
+.user-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}

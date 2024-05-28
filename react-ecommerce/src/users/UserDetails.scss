@@ -1,0 +1,39 @@
+.user-details-container{
+    display:flex;
+    gap:200px;
+    padding: 30px;
+    
+}
+.user-details-container1{
+    border:1px solid silver;
+    width:400px;
+    height:200px;
+    margin-top: 20px;
+    box-shadow: 0 0 4px 2px silver;
+   
+}
+.user-details{
+    font-size: larger;
+    margin:20px 50px;
+     text-align: start;
+
+   
+}
+.add-address-container{
+    font-size: larger;
+}
+.eachAddress-card mb-3{
+    text-align: start;
+    font-size: larger;
+}
+.address-details{
+    font-size: larger;
+    text-align: start;
+}
+.heading{
+    font-size: larger;
+}
+.address-container{
+    text-align: start;
+
+}

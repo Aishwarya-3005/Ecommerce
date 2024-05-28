@@ -1,0 +1,21 @@
+.cartdetails{
+    margin:40px;
+    display: flex;
+  
+    gap:40px
+}
+.cartItem-container{
+    border:1px solid silver;
+    box-shadow: 0 0 4px 2px silver;
+    width:200px;
+}
+.cart-quantity{
+    display: flex;
+    padding-left: 60px;
+}
+.quantity-btn{
+    border-radius: 5px;
+}
+.total-price{
+    font-size: larger;
+}

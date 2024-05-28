@@ -1,0 +1,26 @@
+.dashboard-container {
+  display: flex;
+  margin-left: 50px;
+}
+.dashboard-display {
+  display: flex;
+  margin-top: 120px;
+  column-gap: 120px;
+  align-items: center;
+}
+.dashboard-content {
+  border: 1px solid silver;
+  width: 200px;
+  height: 200px;
+  box-shadow: 0 0 4px 2px silver;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: x-large;
+}
+.btn-dashboard {
+  margin-top: 20px;
+  justify-content: right;
+  display: flex;
+}

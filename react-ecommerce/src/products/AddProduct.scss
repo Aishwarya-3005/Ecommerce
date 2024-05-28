@@ -1,0 +1,19 @@
+.product-div{
+padding: 30px;
+}
+.product-displaycontainer{
+   align-items: center;
+   border:1px solid silver;
+    width:600px;
+    height:400px;
+    margin: 60px;
+    // margin-top: 60px;
+    box-shadow: 0 0 4px 2px silver;
+
+}
+.input-container{
+    font-size: larger;
+    margin:10px;
+    display: flex;
+    justify-content: space-between;
+}

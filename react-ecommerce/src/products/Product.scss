@@ -1,0 +1,24 @@
+.product-img{
+    width:200px;
+    height:200px;
+    
+}
+.product-details{
+    font-size: larger;
+}
+.product-display{
+    margin: 20px;
+    display: flex;
+    column-gap: 30px;
+    border:1px solid silver;
+    width:420px;
+    height:250px;
+    align-items: center;
+    padding: 25px;
+    
+}
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
